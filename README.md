@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Yusuf De Waskito
+- 👋 Hi, I’m David Yusuf De Waskito, i'm from indonesia 
 - 👀 I’m interested in c++ programming and making game
 - 🌱 I’m currently learning c++ and python
 - 📫 You can find me on facebook and instagram under davidyusufwaskito_ user name
