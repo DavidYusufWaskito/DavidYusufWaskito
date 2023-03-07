@@ -9,7 +9,7 @@ Currently, I am learning and working with C++ and Python programming languages. 
 Aside from programming, I'm also interested in game development and design. I enjoy exploring new game mechanics and believe that games can be a powerful tool for storytelling and self-expression. I hope to create games that can inspire and entertain others in the future.
 
 ## ⚽Hobbies
-In my free time, I enjoy playing video games, reading books, and watching movies. I also like to stay active by playing sports and going for walks in nature.
+In my free time, I enjoy playing video games, and watching movies or animes.
 
 ## 📞Contact
 If you'd like to get in touch with me, feel free to send me a message on Instagram or GitHub. I'm always happy to connect with other developers and collaborate on new projects.
