@@ -15,7 +15,7 @@ In my free time, I enjoy playing video games, and watching movies or animes.
 If you'd like to get in touch with me, feel free to send me a message on Instagram or GitHub. I'm always happy to connect with other developers and collaborate on new projects.
 
 [![Instagram Badge](https://img.shields.io/badge/-davidyusufwaskito_-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/davidyusufwaskito_/)](https://www.instagram.com/davidyusufwaskito_/)
-[![GitHub Badge](https://img.shields.io/badge/-David Yusuf Waskito-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/Dazzy467)](https://github.com/Dazzy467)
+[![GitHub Badge](https://img.shields.io/badge/-DavidYusufWaskito-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/Dazzy467)](https://github.com/Dazzy467)
 
 ## 💡Skills
 * C++
