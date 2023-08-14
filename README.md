@@ -16,7 +16,7 @@ If you'd like to get in touch with me, feel free to send me a message on Instagr
 
 [![Instagram Badge](https://img.shields.io/badge/-davidyusufwaskito_-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/davidyusufwaskito_/)](https://www.instagram.com/davidyusufwaskito_/)
 [![GitHub Badge](https://img.shields.io/badge/-DavidYusufWaskito-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/Dazzy467)](https://github.com/Dazzy467)
-[![WhatsApp Badge](https://img.shields.io/badge/-DavidYusufDeWaskito-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/085821535674)
+[![WhatsApp Badge](https://img.shields.io/badge/-DavidYusufDeWaskito-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+6285821535674)
 
 ## 💡Skills
 * C++
