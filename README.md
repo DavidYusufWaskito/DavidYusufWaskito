@@ -20,7 +20,11 @@ If you'd like to get in touch with me, feel free to send me a message on Instagr
 
 ## 💡Skills
 * C++
+* C++ GUI
 * Python
+* PHP
+* Laravel
+* Web Development
 * Object-oriented programming
 * Algorithms and data structures
 
