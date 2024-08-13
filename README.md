@@ -30,10 +30,10 @@ If you'd like to get in touch with me, feel free to send me a message on Instagr
 
 
 
-  [![Stats](https://github-readme-stats-xn39.vercel.app/api?username=Dazzy467&show_icons=true&theme=transparent)](https://github.com/DavidYusufWasktio/DavidYusufWasktio)
+  [![Stats](https://github-readme-stats-xn39.vercel.app/api?username=DavidYusufWasktio&show_icons=true&theme=transparent)](https://github.com/DavidYusufWasktio/DavidYusufWasktio)
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dazzy467&layout=compact&langs_count=8&theme=transparent)](https://github.com/DavidYusufWasktio/DavidYusufWasktio)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidYusufWasktio&layout=compact&langs_count=8&theme=transparent)](https://github.com/DavidYusufWasktio/DavidYusufWasktio)
 <!---
 Dazzy467/Dazzy467 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
