@@ -15,7 +15,7 @@ In my free time, I enjoy playing video games, and watching movies or animes.
 If you'd like to get in touch with me, feel free to send me a message on Instagram or GitHub. I'm always happy to connect with other developers and collaborate on new projects.
 
 [![Instagram Badge](https://img.shields.io/badge/-davidyusufwaskito_-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/davidyusufwaskito_/)](https://www.instagram.com/davidyusufwaskito_/)
-[![GitHub Badge](https://img.shields.io/badge/-DavidYusufWaskito-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/Dazzy467)](https://github.com/Dazzy467)
+[![GitHub Badge](https://img.shields.io/badge/-DavidYusufWaskito-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/Dazzy467)](https://github.com/DavidYusufWaskito)
 [![WhatsApp Badge](https://img.shields.io/badge/-DavidYusufDeWaskito-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+6285821535674)
 
 ## 💡Skills
@@ -30,10 +30,10 @@ If you'd like to get in touch with me, feel free to send me a message on Instagr
 
 
 
-  [![Stats](https://github-readme-stats-xn39.vercel.app/api?username=Dazzy467&show_icons=true&theme=transparent)](https://github.com/Dazzy467/Dazzy467)
+  [![Stats](https://github-readme-stats-xn39.vercel.app/api?username=Dazzy467&show_icons=true&theme=transparent)](https://github.com/DavidYusufWasktio/DavidYusufWasktio)
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dazzy467&layout=compact&langs_count=8&theme=transparent)](https://github.com/Dazzy467/Dazzy467)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dazzy467&layout=compact&langs_count=8&theme=transparent)](https://github.com/DavidYusufWasktio/DavidYusufWasktio)
 <!---
 Dazzy467/Dazzy467 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
