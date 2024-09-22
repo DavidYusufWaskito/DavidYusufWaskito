@@ -23,6 +23,10 @@ If you'd like to get in touch with me, feel free to send me a message on Instagr
 * C++ GUI
 * Python
 * PHP
+* JavaScript
+* ReactJs
+* NodeJs
+* TailwindCSS
 * Laravel
 * Web Development
 * Object-oriented programming
