@@ -28,7 +28,8 @@ If you'd like to get in touch with me, feel free to send me a message on Instagr
 * NodeJs
 * TailwindCSS
 * Laravel
-* Web Development
+* Fullstack Web Development
+* RESTful API
 * Object-oriented programming
 * Algorithms and data structures
 
