@@ -22,7 +22,7 @@ Web development has been the core of my journey, and I have gained proficiency i
 My projects primarily revolve around web technologies, where I take on both frontend and backend responsibilities. From **designing user interfaces** with React.js to building **scalable backend systems** with Node.js or Laravel, I ensure the seamless integration of all components. Whether it's developing RESTful APIs, managing databases, or designing modern UIs, I’m passionate about creating efficient and innovative solutions.
 
 ## ⚽ Hobbies
-In my free time, I enjoy playing video games, watching movies, or exploring anime. These help me stay creative and give me fresh perspectives when tackling web development challenges.
+In my free time, I enjoy playing video games, watching movies, or anime. These help me reduce stress and stay creative!.
 
 ## 💡 Current Focus
 Currently, I’m focusing on fullstack web development, working with **React.js**, **Node.js**, and **Laravel** to create modern and responsive web applications. I'm always looking for opportunities to collaborate on exciting projects, share knowledge, and grow as a developer.
