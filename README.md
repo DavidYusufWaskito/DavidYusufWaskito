@@ -1,41 +1,75 @@
-# 🏄‍♂️About Me
+# 🏄‍♂️ About Me
 
-## 🚀 Introduction
-Hi there! I'm David Yusuf Waskito, a final-semester student at Amikom University in Sleman, Yogyakarta, Indonesia, pursuing a degree in Computer Science. My passion lies in **web development**, and I have extensive experience working on fullstack projects. I've developed a strong skill set using **React.js**, **Node.js**, and **Laravel** to build dynamic, responsive, and scalable web applications. I am always eager to learn more and continue pushing the boundaries of my abilities to create efficient solutions that address real-world needs.
+## 🚀 Summary
+Hi there! I'm **David Yusuf Waskito**, a Computer Science graduate from Amikom University, Yogyakarta, Indonesia, and currently working as a **IT Programmer at PT Tokocat Warna Abadi**, a large-scale company.
 
-## 💻 Programming Languages & Web Development Tools
-Web development has been the core of my journey, and I have gained proficiency in a range of technologies that allow me to build fullstack applications. Below are the tools I regularly use:
+I specialize in **fullstack web development** with strong experience in **React.js**, **Node.js**, and **Laravel**, building scalable, secure, and real-world production systems. Alongside web development, I am actively expanding my expertise into **mobile application development using Flutter**, focusing on building cross-platform mobile apps that integrate seamlessly with **RESTful APIs**.
 
-* **React.js** – Building modern, interactive UIs
-* **Node.js** – Backend development and API creation
-* **Laravel** – MVC framework for rapid, secure web development
-* **PHP** – Server-side programming for dynamic websites
-* **JavaScript** – Core scripting language for web applications
-* **TailwindCSS** – For designing sleek, responsive interfaces
-* **RESTful API Development** – Building robust and scalable APIs
-* **Fullstack Web Development** – From frontend to backend integration
-* **C++** & **Python** – For problem-solving and algorithm optimization
-* **Object-Oriented Programming (OOP)**
-* **Algorithms and Data Structures**
+I enjoy working on end-to-end solutions—from backend services and APIs to web and mobile client applications—and continuously strive to improve code quality, system performance, and user experience.
 
-## ✨ Focused Expertise in Web Development
-My projects primarily revolve around web technologies, where I take on both frontend and backend responsibilities. From **designing user interfaces** with React.js to building **scalable backend systems** with Node.js or Laravel, I ensure the seamless integration of all components. Whether it's developing RESTful APIs, managing databases, or designing modern UIs, I’m passionate about creating efficient and innovative solutions.
+---
+
+## 💻 Programming Languages & Development Tools
+
+### 🌐 Web & Backend Development
+- **React.js** – Modern, interactive frontend development  
+- **Node.js** – Backend services and RESTful APIs  
+- **Laravel** – Secure MVC-based web applications  
+- **PHP** – Server-side scripting  
+- **JavaScript** – Frontend & backend logic  
+- **TailwindCSS** – Responsive and clean UI design  
+- **RESTful API Development** – Design & consumption  
+- **Fullstack Web Development** – Frontend to backend integration  
+
+### 📱 Mobile Development
+- **Flutter** – Cross-platform mobile app development  
+- **API Integration** – Consuming REST APIs in mobile apps  
+- **State Management (basic)** – Managing app data flow  
+- **Mobile UI Development** – Clean and responsive layouts  
+
+### 🧠 Core Programming Skills
+- **C++ & Python** – Algorithms and problem-solving  
+- **Object-Oriented Programming (OOP)**  
+- **Algorithms & Data Structures**
+
+---
+
+## ✨ Professional Focus
+I work professionally as a **Software Developer**, focusing on building reliable, maintainable, and scalable applications. My role involves:
+
+- Developing and maintaining web-based systems  
+- Designing and implementing RESTful APIs  
+- Integrating frontend, backend, and mobile applications  
+- Collaborating in team-based development environments  
+
+In addition, I am continuously developing my skills in **Flutter mobile development**, allowing me to deliver **complete solutions across web and mobile platforms**.
+
+---
 
 ## ⚽ Hobbies
-In my free time, I enjoy playing video games, watching movies, or anime. These help me reduce stress and stay creative!.
+Outside of work, I enjoy playing video games, watching movies, and anime. These activities help me relax, stay creative, and maintain balance.
+
+---
 
 ## 💡 Current Focus
-Currently, I’m focusing on fullstack web development, working with **React.js**, **Node.js**, and **Laravel** to create modern and responsive web applications. I'm always looking for opportunities to collaborate on exciting projects, share knowledge, and grow as a developer.
+- Fullstack Web Development using **React.js, Node.js, and Laravel**  
+- Mobile App Development using **Flutter**  
+- API-based system integration  
+- Improving software architecture and code quality  
 
-## 📞 Contact
-Feel free to reach out if you'd like to collaborate or just chat about web development. I'm always open to networking and exchanging ideas!
+---
 
-[![Instagram Badge](https://img.shields.io/badge/-davidyusufwaskito_-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/davidyusufwaskito_/)](https://www.instagram.com/davidyusufwaskito_/)
-[![GitHub Badge](https://img.shields.io/badge/-DavidYusufWaskito-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/Dazzy467)](https://github.com/DavidYusufWaskito)
+## 📞 Contact & Socials
+Feel free to reach out if you'd like to collaborate or discuss software development.
+
+[![Instagram Badge](https://img.shields.io/badge/-davidyusufwaskito_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/davidyusufwaskito_/)
+[![GitHub Badge](https://img.shields.io/badge/-DavidYusufWaskito-grey?style=flat-square&logo=github&logoColor=white)](https://github.com/Dazzy467)
 [![WhatsApp Badge](https://img.shields.io/badge/-DavidYusufDeWaskito-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+6285821535674)
+
+---
 
 ## 💻 GitHub Stats
 
-  [![Stats](https://github-readme-stats-xn39.vercel.app/api?username=DavidYusufWaskito&show_icons=true&theme=transparent)](https://github.com/DavidYusufWaskito/DavidYusufWaskito)
+![GitHub Stats](https://github-readme-stats-xn39.vercel.app/api?username=DavidYusufWaskito&show_icons=true&theme=transparent)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidYusufWaskito&layout=compact&langs_count=8&theme=transparent)](https://github.com/DavidYusufWaskito/DavidYusufWaskito)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidYusufWaskito&layout=compact&langs_count=8&theme=transparent)
