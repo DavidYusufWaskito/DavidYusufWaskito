@@ -1,7 +1,7 @@
 # 🏄‍♂️ About Me
 
 ## 🚀 Summary
-Hi there! I'm **David Yusuf Waskito**, a Computer Science graduate from Amikom University, Yogyakarta, Indonesia, and currently working as a **IT Programmer at PT Tokocat Warna Abadi**, a large-scale company.
+Hi there! I'm **David Yusuf Waskito**, a Computer Science graduate from Amikom University, Yogyakarta, Indonesia, and currently working as a **IT Programmer at PT. Warna Abadi Mitra Bersama Also known as Tokocat WAWAWA**, a large-scale company.
 
 I specialize in **fullstack web development** with strong experience in **React.js**, **Node.js**, and **Laravel**, building scalable, secure, and real-world production systems. Alongside web development, I am actively expanding my expertise into **mobile application development using Flutter**, focusing on building cross-platform mobile apps that integrate seamlessly with **RESTful APIs**.
 
